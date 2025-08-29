@@ -26,7 +26,7 @@ In CoppeliaSim menu: Tools → Remote API Server.
 
 3. Run the Python Code
 
-From command prompt will enter to thefile where the python code is located.
+From command prompt first will enter into the file where the python code is located.
 - after that
      ```bash
      python 2r_fk_tcp.py
@@ -42,6 +42,13 @@ FK math (from Python) is compared with the simulated TCP position.
 
 Console prints showing both calculated FK TCP position and simulated TCP position.
 Values should be nearly identical (small difference due to simulation precision).
+
+
+👨‍💻 Author
+
+Suman Das Adhikary
+
+📧 For any queries, feel free to reach out: sumandasadhikary457@gmail.com
 
 
 
