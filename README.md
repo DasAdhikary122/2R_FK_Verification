@@ -44,6 +44,8 @@ Console prints showing both calculated FK TCP position and simulated TCP positio
 Values should be nearly identical (small difference due to simulation precision).
 
 
+fk_result.png
+
 👨‍💻 Author
 
 Suman Das Adhikary
