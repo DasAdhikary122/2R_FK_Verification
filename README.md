@@ -26,9 +26,12 @@ In CoppeliaSim menu: Tools → Remote API Server.
 
 3. Run the Python Code
 
-From your project directory (2R_FK_Verification), run:
+From your project directory (2R_FK_Verification), run
 
-python 2r_fk_tcp.py
+     ```bash
+  
+     python 2r_fk_tcp.py
+
 
 The script connects to CoppeliaSim using the Remote API.
 Joint angles are set in the simulator.
