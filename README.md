@@ -22,16 +22,16 @@ Launch CoppeliaSim.
 Open the provided scene (scenes/RoboticArmSimulation_FK_API.ttt).
 Make sure the Remote API server is running (default port 19997).
 In CoppeliaSim menu: Tools → Remote API Server.
-4. What Happens
+
 
 3. Run the Python Code
 
-From your project directory (2R_FK_Verification), run
+From command prompt will enter to thefile where the python code is located.
+- after that
+     ```bash
+     python 2r_fk_tcp.py
 
-    ```bash
-    python 2r_fk_tcp.py
-
-
+4. What Happens
 The script connects to CoppeliaSim using the Remote API.
 Joint angles are set in the simulator.
 TCP (Tool Center Point) position is read from the simulation.
