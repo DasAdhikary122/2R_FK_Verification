@@ -28,7 +28,7 @@ In CoppeliaSim menu: Tools → Remote API Server.
 
 From your project directory (2R_FK_Verification), run
 
-     ```bash
+    ```bash
   
      python 2r_fk_tcp.py
 
